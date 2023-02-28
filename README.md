@@ -15,9 +15,9 @@ const myKuromi = {
   tools: [React, Redux, Node, ExtJS, MySQL, Styled-Components, SCSS],
   architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
   education: {
-                  university: "Korea National Open University",
-                  major: "Computer Science",
-                  degree: "Bachelor"
+                university: "Korea National Open University",
+                major: "Computer Science",
+                degree: "Bachelor"
              },
   challenge: "I am doing the #clone-coding challenge focused on react and javascript."
 }
@@ -85,3 +85,10 @@ const myKuromi = {
 </div>
 <br>
 <br>
+
+## 🩰 ꜱᴛᴀᴛᴜꜱ
+
+![myKuromi's github stats](https://github-readme-stats.vercel.app/api?username=mykuromi&show_icons=true&theme=dracula)
+<br>
+<br>
+
