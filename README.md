@@ -1,6 +1,6 @@
-<div name="hit_count" align="right">
+<div name="hit_counter" align="right">
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmykuromi&count_bg=%23FFC5C5&title_bg=%23FBD8D8&icon=googlefit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmykuromi&count_bg=%23727272&title_bg=%23FF8D8D&icon=googlefit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
   </a>
 </div>
 
@@ -12,7 +12,7 @@ const myKuromi = {
   name: "Heera",
   role: "Front-end Developer",
   code: [Javascript, JAVA, SQL],
-  tools: [React, Redux, Node, ExtJS, MySQL, Styled-Components, SCSS],
+  tools: [React, Redux, ExtJS, MySQL, Styled-Components, SASS],
   architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
   education: {
                 university: "Korea National Open University",
@@ -27,7 +27,10 @@ const myKuromi = {
 
 ## 📭 ꜱɴꜱ
 
-<div name="tech_stack">
+<div name="sns">
+  <a href="mailto:mykuromi.log@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/> 
+  </a>
   <a href="https://mykuromi.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-09B3AF?style=for-the-badge&logo=Bloglovin&logoColor=white"/>
   </a>
