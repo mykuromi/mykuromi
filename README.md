@@ -13,13 +13,13 @@ const myKuromi = {
   role: "Front-end Developer",
   code: [Javascript, JAVA, SQL],
   tools: [React, Redux, ExtJS, MySQL, Styled-Components, SASS],
-  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+  architecture: ["Serverless architecture", "Progressive web applications", "Single page applications"],
   education: {
                 university: "Korea National Open University",
-                major: "Computer Science",
+                major: "Computer science",
                 degree: "Bachelor"
              },
-  challenge: "I am doing the #clone-coding challenge focused on react and javascript."
+  challenge: "I am doing the #clone-coding challenge focused on React and Javascript."
 }
 ```
 <br>
