@@ -10,16 +10,14 @@
 ```javascript
 const myKuromi = {
   name: "Heera",
-  role: "Front-end Developer",
+  role: "Web Developer",
   code: [Javascript, JAVA, SQL],
-  tools: [React, Redux, ExtJS, MySQL, Styled-Components, SASS],
-  architecture: ["Serverless architecture", "Progressive web applications", "Single page applications"],
+  tools: [React, Redux, Next.js, Ext JS, MySQL, Styled-Components, SASS],
   education: {
                 university: "Korea National Open University",
                 major: "Computer science",
                 degree: "Bachelor"
-             },
-  challenge: "I am doing the #clone-coding challenge focused on React and Javascript."
+             }
 }
 ```
 <br>
